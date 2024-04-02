@@ -1,0 +1,13 @@
+01/04/2024 20:25 admin@hagaplan.com.br : Empresa Cadastrada  -> Flexibus Sanfonados LTDA
+01/04/2024 20:25 admin@hagaplan.com.br : Menu Deletado (Cadastros)
+01/04/2024 20:26 admin@hagaplan.com.br : Menu Deletado (Ferramentas)
+01/04/2024 20:27 admin@hagaplan.com.br : Menu Deletado (Cadastros)
+02/04/2024 15:38 admin@hagaplan.com.br : Inclusao de novo Perfil de usuario (TESTE)
+02/04/2024 15:38 admin@hagaplan.com.br : Permissao alterada, Modulo: Sistema, Acesso:[[0,1,9]])
+02/04/2024 15:38 admin@hagaplan.com.br : Permissao alterada, Modulo: Ferramentas, Acesso:[[0,3,9]])
+02/04/2024 15:38 admin@hagaplan.com.br : Permissao alterada, Modulo: Cadastros, Acesso:[[0,3,9]])
+02/04/2024 15:38 admin@hagaplan.com.br : Permissao alterada, Modulo: Engenharia, Acesso:[[0]])
+02/04/2024 15:38 admin@hagaplan.com.br : Permissao alterada, Modulo: Sistema, Acesso:[[0,1,9]])
+02/04/2024 15:38 admin@hagaplan.com.br : Permissao alterada, Modulo: Ferramentas, Acesso:[[0,3,9]])
+02/04/2024 15:38 admin@hagaplan.com.br : Permissao alterada, Modulo: Engenharia, Acesso:[[0,1]])
+02/04/2024 15:38 admin@hagaplan.com.br : Permissao alterada, Modulo: Cadastros, Acesso:[[0,3,9]])
